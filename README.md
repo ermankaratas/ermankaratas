@@ -65,7 +65,6 @@ src="https://www.techlistic.com/ezoimgfmt/blogger.googleusercontent.com/img/b/R2
 
 <p align="center">
 	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ermankaratas" alt="ermankaratas"/>
-	<img height="150" width="150" src="webp/right.webp">
 	</br>
 	<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 </p>
