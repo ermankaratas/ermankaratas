@@ -63,23 +63,17 @@ src="https://www.techlistic.com/ezoimgfmt/blogger.googleusercontent.com/img/b/R2
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <h2><p align="center">📊 GitHub Stats</p></h2>
 
-![](./profile-3d-contrib/profile-season-animate.svg)
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
 <p align="center">
 	<img height="150" width="150" src="webp/left.webp">
 	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ermankaratas" alt="ermankaratas"/>
 	<img height="150" width="150" src="webp/right.webp">
 	</br>
 	<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
- 	</br>
-        <img height="200em" align="center" src="https://github-contributor-stats.vercel.app/api?username=ermankaratas&limit=5&theme=light&combine_all_yearly_contributions=true="/></a>
-	<img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ermankaratas&show_icons=true&locale=en&layout=compact&langs_count=8" alt="ermankaratas"/></a>
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <p align="right"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ermankaratas&title=Commits,Repositories,PullRequest,Reviews,Followers,MultiLanguage,Issues,Stars"alt="ermankaratas"/</a></p>
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <h2> <p align="center"> Keep coding! 💻 Stay awesome! ✨ </p></h2>
