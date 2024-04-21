@@ -64,7 +64,6 @@ src="https://www.techlistic.com/ezoimgfmt/blogger.googleusercontent.com/img/b/R2
 <h2><p align="center">📊 GitHub Stats</p></h2>
 
 <p align="center">
-	<img height="150" width="150" src="webp/left.webp">
 	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ermankaratas" alt="ermankaratas"/>
 	<img height="150" width="150" src="webp/right.webp">
 	</br>
