@@ -68,6 +68,9 @@ src="https://www.techlistic.com/ezoimgfmt/blogger.googleusercontent.com/img/b/R2
 	</br>
 	<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 </p>
+<p align="center">
+<img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ermankaratas&show_icons=true&locale=en&layout=compact&langs_count=8" alt="ermankaratas"/></a>
+</p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
