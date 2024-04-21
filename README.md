@@ -1,5 +1,5 @@
 <p align="center">
-<h1 align="center">Hi 👋, I'm Cihat</h1>
+<h1 align="center">Hi 👋, I'm Erman</h1>
 <h2> <p align="center">Welcome to my page! :tada: </p></h2>
 <div align="center">
 	<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -7,11 +7,25 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <h2 align="center">🎤About Me</h2>
 
-I have more than 1 year of experience of Manual and Automation Testing with knowledge of Java programming language, various software testing techniques, manuel and automated testing tools such as Selenium, TestNG, Cucumber BDD, Maven, JUnit, Jenkins, Postman and Rest Assured for API Testing, MySQL and JDBC for Database Testing and GitHub.
+🚀 Software Test Engineer | Test Automation Specialist 🚀
 
-I have been working in an Agile Team with Agile/Scrum methodology, where I gained experience with preparing manual test cases and automation scripts. I have created test cases for automating UI and API and DB testing. Experienced in all phases of the Software Development Life Cycle (SDLC), its methodologies such as Agile/Scrum.
+With a robust background in both manual and automated testing, I bring extensive expertise to software quality assurance. My passion for learning fuels my enthusiasm for mastering new tools and methodologies, ensuring I stay at the forefront of industry advancements.
 
-My passionate commitment to and background so far in the area ensures a solid foundation to quickly add value to any team. My ambition is to become a true top-talent in technical side and to prove a unique excellence in bridging technical and none-technical aspects of IT-enabled services and processes.
+✨ Key Strengths: ✨
+
+🔍 Thorough Testing Skills: Proficient in both manual and automated testing techniques, ensuring comprehensive software evaluation and validation.
+
+🛠️ Tool Proficiency: Rapidly adapt to new testing tools and technologies, leveraging them to enhance testing efficiency and effectiveness.
+
+🤝 Collaborative Team Player: Committed to fostering a collaborative environment, I thrive in teamwork-driven settings and excel in communication and coordination.
+
+🔄 Agile and Scrum Mastery: Well-versed in Agile principles and Scrum artifacts, actively participating in ceremonies such as Sprint Planning, Daily Stand-Up, and Retrospective Meetings.
+
+⚓ Process Management Expertise: Leveraging experience as a former naval officer, I bring strong process management skills to ensure smooth project execution and delivery. 
+
+💡 Key Expertise: Java, Object-Oriented Programming (OOP), Selenium WebDriver, TestNG, Cucumber, Database Testing (JDBC, MySQL, SQL), API Testing (Postman, RestAssured), Cross-Browser Testing, Git, GitHub, Jira, IntelliJ IDEA.
+
+Let's connect and explore opportunities to collaborate!
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 			
 <h2><p align="center">🧰Technologies and Tools</p></h2>				
@@ -74,16 +88,6 @@ src="https://www.techlistic.com/ezoimgfmt/blogger.googleusercontent.com/img/b/R2
 
 <h2> <p align="center"> Keep coding! 💻 Stay awesome! ✨ </p></h2>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-<h2><p align="center">📫 Connect With Me</p></h2>
-<p align="center">  
-	<a href="https://www.linkedin.com/in/cihatkose/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>              
-	<a href="https://www.hackerrank.com/cihatkose" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a> 
-	<a href = "mailto:cihat.kose@hotmail.com"><img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-	<a href="https://www.postman.com/cihatkose" target="_blank"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
-	<a href = "mailto: cihatkose.no@gmail.com"><img alt="GMail" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-	</br>
-</p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
