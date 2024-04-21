@@ -69,21 +69,17 @@ src="https://www.techlistic.com/ezoimgfmt/blogger.googleusercontent.com/img/b/R2
 
 <p align="center">
 	<img height="150" width="150" src="webp/left.webp">
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ChatGTHB&" alt="ChatGTHB"/>
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ermankaratas" alt="ermankaratas"/>
 	<img height="150" width="150" src="webp/right.webp">
 	</br>
 	<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
  	</br>
-        <img height="200em" align="center" src="https://github-contributor-stats.vercel.app/api?username=ChatGTHB&limit=5&theme=light&combine_all_yearly_contributions=true="/></a>
-	<img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChatGTHB&show_icons=true&locale=en&layout=compact&langs_count=8" alt="ChatGTHB"/></a>
+        <img height="200em" align="center" src="https://github-contributor-stats.vercel.app/api?username=ermankaratas&limit=5&theme=light&combine_all_yearly_contributions=true="/></a>
+	<img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ermankaratas&show_icons=true&locale=en&layout=compact&langs_count=8" alt="ermankaratas"/></a>
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-<p align="right"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chatgthb&title=Commits,Repositories,PullRequest,Reviews,Followers,MultiLanguage,Issues,Stars"alt="chatgthb"/</a></p>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
-
+<p align="right"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ermankaratas&title=Commits,Repositories,PullRequest,Reviews,Followers,MultiLanguage,Issues,Stars"alt="ermankaratas"/</a></p>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <h2> <p align="center"> Keep coding! 💻 Stay awesome! ✨ </p></h2>
@@ -91,5 +87,5 @@ src="https://www.techlistic.com/ezoimgfmt/blogger.googleusercontent.com/img/b/R2
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=chatgthb&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="chatgthb" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ermankaratas&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ermankaratas" /> </p>
 
