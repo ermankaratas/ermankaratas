@@ -70,9 +70,6 @@ src="https://www.techlistic.com/ezoimgfmt/blogger.googleusercontent.com/img/b/R2
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-<p align="right"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ermankaratas&title=Commits,Repositories,PullRequest,Reviews,Followers,MultiLanguage,Issues,Stars"alt="ermankaratas"/</a></p>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <h2> <p align="center"> Keep coding! 💻 Stay awesome! ✨ </p></h2>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
